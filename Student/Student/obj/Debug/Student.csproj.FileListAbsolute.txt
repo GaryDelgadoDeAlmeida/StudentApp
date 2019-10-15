@@ -1,0 +1,13 @@
+D:\garya\Documents\Developpement\Application\C#\Student\Student\bin\Debug\Student.exe.config
+D:\garya\Documents\Developpement\Application\C#\Student\Student\bin\Debug\Student.exe
+D:\garya\Documents\Developpement\Application\C#\Student\Student\bin\Debug\Student.pdb
+D:\garya\Documents\Developpement\Application\C#\Student\Student\obj\Debug\Student.csprojAssemblyReference.cache
+D:\garya\Documents\Developpement\Application\C#\Student\Student\obj\Debug\Student.Index.resources
+D:\garya\Documents\Developpement\Application\C#\Student\Student\obj\Debug\Student.Properties.Resources.resources
+D:\garya\Documents\Developpement\Application\C#\Student\Student\obj\Debug\Student.csproj.GenerateResource.cache
+D:\garya\Documents\Developpement\Application\C#\Student\Student\obj\Debug\Student.exe
+D:\garya\Documents\Developpement\Application\C#\Student\Student\obj\Debug\Student.pdb
+D:\garya\Documents\Developpement\Application\C#\Student\Student\obj\Debug\Student.View.AddStudent.resources
+D:\garya\Documents\Developpement\Application\C#\Student\Student\obj\Debug\Student.View.DataStudent.resources
+D:\garya\Documents\Developpement\Application\C#\Student\Student\bin\Debug\StudentDatabase.mdf
+D:\garya\Documents\Developpement\Application\C#\Student\Student\bin\Debug\StudentDatabase_log.ldf
