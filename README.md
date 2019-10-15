@@ -1,5 +1,5 @@
 # StudentApp
-Application de test de mise en place d'une base de données en local (en SQL Server).
+## Application de test de mise en place d'une base de données en local (en SQL Server).
 
 Les fonctionnalités disponibles sont :
   - Affichage des données de la base de données
